@@ -1,0 +1,6 @@
+C:\Users\somkiane\Documents\Visual Studio 2013\Projects\KataMovieRental\KataMovieRental\bin\Debug\KataMovieRental.dll.config
+C:\Users\somkiane\Documents\Visual Studio 2013\Projects\KataMovieRental\KataMovieRental\bin\Debug\KataMovieRental.dll
+C:\Users\somkiane\Documents\Visual Studio 2013\Projects\KataMovieRental\KataMovieRental\bin\Debug\KataMovieRental.pdb
+C:\Users\somkiane\Documents\Visual Studio 2013\Projects\KataMovieRental\KataMovieRental\obj\Debug\KataMovieRental.csprojResolveAssemblyReference.cache
+C:\Users\somkiane\Documents\Visual Studio 2013\Projects\KataMovieRental\KataMovieRental\obj\Debug\KataMovieRental.dll
+C:\Users\somkiane\Documents\Visual Studio 2013\Projects\KataMovieRental\KataMovieRental\obj\Debug\KataMovieRental.pdb

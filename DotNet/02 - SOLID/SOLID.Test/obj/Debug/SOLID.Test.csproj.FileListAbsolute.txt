@@ -1,0 +1,11 @@
+c:\Users\somkiane\documents\visual studio 2013\Projects\SOLID\SOLID.Test\obj\Debug\SOLID.Test.csprojResolveAssemblyReference.cache
+c:\Users\somkiane\documents\visual studio 2013\Projects\SOLID\SOLID.Test\bin\Debug\SOLID.Test.dll
+c:\Users\somkiane\documents\visual studio 2013\Projects\SOLID\SOLID.Test\bin\Debug\SOLID.Test.pdb
+c:\Users\somkiane\documents\visual studio 2013\Projects\SOLID\SOLID.Test\bin\Debug\NFluent.dll
+c:\Users\somkiane\documents\visual studio 2013\Projects\SOLID\SOLID.Test\bin\Debug\nunit.framework.dll
+c:\Users\somkiane\documents\visual studio 2013\Projects\SOLID\SOLID.Test\bin\Debug\SOLID.exe
+c:\Users\somkiane\documents\visual studio 2013\Projects\SOLID\SOLID.Test\bin\Debug\SOLID.pdb
+c:\Users\somkiane\documents\visual studio 2013\Projects\SOLID\SOLID.Test\bin\Debug\NFluent.xml
+c:\Users\somkiane\documents\visual studio 2013\Projects\SOLID\SOLID.Test\bin\Debug\nunit.framework.xml
+c:\Users\somkiane\documents\visual studio 2013\Projects\SOLID\SOLID.Test\obj\Debug\SOLID.Test.dll
+c:\Users\somkiane\documents\visual studio 2013\Projects\SOLID\SOLID.Test\obj\Debug\SOLID.Test.pdb

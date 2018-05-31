@@ -1,0 +1,9 @@
+c:\users\somkiane\documents\visual studio 2013\Projects\SOLID\SOLID\bin\Debug\SOLID.exe.config
+c:\users\somkiane\documents\visual studio 2013\Projects\SOLID\SOLID\bin\Debug\SOLID.exe
+c:\users\somkiane\documents\visual studio 2013\Projects\SOLID\SOLID\bin\Debug\SOLID.pdb
+c:\users\somkiane\documents\visual studio 2013\Projects\SOLID\SOLID\obj\Debug\SOLID.csprojResolveAssemblyReference.cache
+c:\users\somkiane\documents\visual studio 2013\Projects\SOLID\SOLID\obj\Debug\SOLID.exe
+c:\users\somkiane\documents\visual studio 2013\Projects\SOLID\SOLID\obj\Debug\SOLID.pdb
+C:\Users\somkiane\Documents\00 - Arolla\GoooD\SOLID\SOLID\bin\Debug\SOLID.exe.config
+C:\Users\somkiane\Documents\00 - Arolla\GoooD\SOLID\SOLID\obj\Debug\SOLID.exe
+C:\Users\somkiane\Documents\00 - Arolla\GoooD\SOLID\SOLID\obj\Debug\SOLID.pdb
